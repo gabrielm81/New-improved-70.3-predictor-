@@ -18,10 +18,7 @@ st.title("🏊‍♂️🚴‍♂️🏃‍♂️ Ironman 70.3 Performance Predi
 
 st.write(
     """
-    I built this project as my first computer science project while
-    completing Andrew Ng’s Machine Learning Specialization.
-
-    I wanted to combine coding with something I deeply care about:
+    I built this project as I just completed Andrew Ng’s Course on Machine Learning & thought that it would be cool to  combine coding with something I deeply care about:
     Ironman training.
 
     Answer a few questions to estimate your Ironman 70.3 finish time.
